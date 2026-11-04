@@ -16,4 +16,4 @@ Menu **Giới thiệu**, **Kỹ năng**, **Dự án**, **Học tập** và **Li�
 4. Để thử form, nhập **Họ và tên**, **Email**, **Lời nhắn**, rồi bấm **Gửi lời nhắn**.
 
 ## Hạn chế
-Website chưa được triển khai thành bản demo trực tuyến và các liên kết GitHub của ba dự án trong trang vẫn là nội dung chờ cập nhật. Form chỉ kiểm tra dữ liệu ở trình duyệt; dữ liệu gửi bằng GET có thể hiện trên thanh địa chỉ và không được gửi email hay lưu lại.
+Các liên kết GitHub của ba dự án trong trang vẫn là nội dung chờ cập nhật. Form chỉ kiểm tra dữ liệu ở trình duyệt; dữ liệu gửi bằng GET có thể hiện trên thanh địa chỉ và không được gửi email hay lưu lại.
