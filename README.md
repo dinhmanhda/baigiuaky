@@ -12,8 +12,12 @@ Menu **Giới thiệu**, **Kỹ năng**, **Dự án**, **Học tập** và **Li�
 ## Cách mở
 1. Mở thư mục `K20_Portfolio_CNTT20_02` trong File Explorer.
 2. Nhấp đúp vào tệp `index.html` để mở website trong trình duyệt.
-3. Bấm **Dự án** trên menu để xem ba dự án, hoặc bấm **Liên hệ** để đến form.
-4. Để thử form, nhập **Họ và tên**, **Email**, **Lời nhắn**, rồi bấm **Gửi lời nhắn**.
+3. Bấm **Dự án** trên menu để xem ba dự án.
+4. Bấm **Liên hệ** trên menu để đến form.
+5. Nhập thông tin vào ô **Họ và tên**.
+6. Nhập thông tin vào ô **Email**.
+7. Nhập nội dung vào ô **Lời nhắn**.
+8. Bấm nút **Gửi lời nhắn** để thử form.
 
 ## Hạn chế
 Các liên kết GitHub của ba dự án trong trang vẫn là nội dung chờ cập nhật. Form chỉ kiểm tra dữ liệu ở trình duyệt; dữ liệu gửi bằng GET có thể hiện trên thanh địa chỉ và không được gửi email hay lưu lại.
