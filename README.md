@@ -1,10 +1,10 @@
-# Portfolio CV cá nhân - Lỗ Văn Tuấn
+# Portfolio CV cá nhân - Đinh Mạnh Đà
 
 ## Sản phẩm này là gì?
-Đây là website portfolio CV giới thiệu Lỗ Văn Tuấn, sinh viên năm cuối ngành Công nghệ Thông tin, cùng kỹ năng và các sản phẩm học tập. Website được xây dựng bằng HTML và CSS.
+Đây là website portfolio CV giới thiệu Đinh Mạnh Đà, sinh viên lớp 17-10 (MSV 1771020119, sinh ngày 09/07/2005), năm cuối ngành Công nghệ Thông tin, cùng kỹ năng và các sản phẩm học tập. Website được xây dựng bằng HTML và CSS.
 
 ## Demo
-[Mở website portfolio](https://tuan1143.github.io/K20_Portfolio_CNTT20_02/). [Xem mã nguồn sản phẩm trên GitHub](https://github.com/tuan1143/K20_Portfolio_CNTT20_02).
+[Mở website portfolio](https://dinhmanhda.github.io/baigiuaky/). [Xem mã nguồn sản phẩm trên GitHub](https://github.com/dinhmanhda/baigiuaky).
 
 ## Tính năng
 Menu **Giới thiệu**, **Kỹ năng**, **Dự án**, **Học tập** và **Liên hệ** đưa người xem đến từng phần của trang; mục Dự án trình bày ba sản phẩm học tập. Form Liên hệ kiểm tra dữ liệu nhập và mở trang kết quả, nhưng không gửi email hoặc lưu dữ liệu lên máy chủ.
